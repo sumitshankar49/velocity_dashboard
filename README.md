@@ -133,22 +133,6 @@ src/
 └── index.ts
 ```
 
-## Getting Started
-
-> [!NOTE]  
-> This admin dashboard starter uses **Next.js 16 (App Router)** with **React 19** and **Shadcn UI**. Follow these steps to run it locally:
-
-Clone the repo:
-
-```
-git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git
-```
-
-- `bun install`
-- Create a `.env.local` file by copying the example environment file:
-  `cp env.example.txt .env.local`
-- Add the required environment variables to the `.env.local` file.
-- `bun run dev`
 
 ##### Environment Configuration Setup
 
@@ -160,8 +144,6 @@ For detailed instructions on configuring Clerk authentication (including organiz
 
 You should now be able to access the application at http://localhost:3000.
 
-> [!WARNING]
-> After cloning or forking the repository, be cautious when pulling or syncing with the latest changes, as this may result in breaking conflicts.
 
 Cheers! 🥂
 
